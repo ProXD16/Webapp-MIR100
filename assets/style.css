@@ -1,0 +1,15 @@
+.arc-instruction-hidden {
+    display: none;
+  }
+  
+  .arc-instruction-visible {
+    display: block;
+  }
+  
+  .arc-center-slider-hidden {
+    display: none;
+  }
+  
+  .arc-center-slider-visible {
+    display: block;
+  }
